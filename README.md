@@ -67,7 +67,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 
-Project developed as part of Veersa Technologies training program
+Project developed as part of Veersa Technologies training program,
 Special thanks to Mr. Manoj Pal for mentorship and guidance
 - **[Databricks](https://databricks.com/)** for providing the platform for data processing and analysis.
 - **[Delta Lake](https://delta.io/)** for enabling reliable data storage and schema enforcement.
