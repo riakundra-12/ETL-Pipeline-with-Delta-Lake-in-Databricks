@@ -1,4 +1,4 @@
-# DeltaStore: Multi-Layer ETL Pipeline with Databricks
+# ETL PIPELINE WITH DELTA LAKE IN DATABRICKS
 
 Modern ETL pipeline with Databricks & Delta Lake implementing medallion architecture for retail analytics | Features: Delta Lake ACID transactions, data quality checks, PowerBI integration, multi-layer transformations | Built with PySpark
 
