@@ -73,7 +73,7 @@ Business Logic
         └── Indexing
 ```
 
-## ✨ Key Features
+## Key Features
 
 | Feature | Description |
 |---------|-------------|
@@ -104,7 +104,7 @@ Business Logic
 - Databricks Notebooks
 </details>
 
-## 📊 Analytics Capabilities
+##  Analytics Capabilities
 
 ### Product Analytics
 -  Category-wise profit analysis
@@ -126,7 +126,7 @@ Business Logic
 - Git
 ```
 
-### Quick Start 🏃‍♂️
+### Quick Start 🏃‍♂
 
 1. Clone the repository
 ```bash
@@ -143,7 +143,7 @@ spark.conf.set("spark.databricks.deltaStore.path", "/your/path")
 python run_pipeline.py
 ```
 
-## 📁 Project Structure
+##  Project Structure
 
 ```plaintext
 deltastore/
@@ -161,7 +161,7 @@ deltastore/
     └── 📊 retail_analytics.pbix
 ```
 
-## 🔄 Data Transformations
+##  Data Transformations
 
 <details>
 <summary>Bronze → Silver Transformations</summary>
@@ -203,12 +203,12 @@ def calculate_customer_metrics(df):
 
 ## Future Scope
 
-- 🤖 ML Model Integration
-- ⚡ Real-time Processing
-- 🔄 Automated Pipelines
-- 📱 Mobile Analytics
+-  ML Model Integration
+-  Real-time Processing
+-  Automated Pipelines
+-  Mobile Analytics
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions welcome! Please check out our [contribution guidelines](CONTRIBUTING.md).
 
